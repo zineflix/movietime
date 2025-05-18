@@ -141,7 +141,7 @@ body {
         font-size: 18px;
         font-weight: bold;
         cursor: pointer;
-        background-color: #0296cc;
+        background-color: #8A00C4;
         padding: 10px 20px;
         border-radius: 5px;
         display: block;  /* Visible on mobile */
@@ -338,7 +338,7 @@ body {
 .poster-card:hover {
     transform: scale(1.1);
     z-index: 10; /* Ensures it appears above other elements */
-    box-shadow: 0 10px 20px #0296cc;
+    box-shadow: 0 10px 20px #8A00C4;
 }
 
 
@@ -383,7 +383,7 @@ margin-top: 10px; /* Adds space between the message and the button */
 }
 
 #floating-message button:hover {
-background-color: #0296cc; /* Darker green on hover */
+background-color: #8A00C4; /* Darker green on hover */
 }
 
 /* Adjustment of floating message in mobile */
@@ -510,7 +510,7 @@ background-color: #0296cc; /* Darker green on hover */
     transition: background 0.3s;
 }
 .dropbtn:hover {
-    background-color: #0296cc;
+    background-color: #8A00C4;
 }
 
 .dropdown-content {
@@ -539,7 +539,7 @@ background-color: #0296cc; /* Darker green on hover */
 }
 
 .dropdown-content li a:hover {
-    background-color: #0296cc;
+    background-color: #8A00C4;
 }
 
 /* Show dropdown on hover (for larger screens) */
@@ -585,7 +585,7 @@ background-color: #0296cc; /* Darker green on hover */
 }
 
 .footer-links a {
-  color: #0296cc;
+  color: #8A00C4;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
