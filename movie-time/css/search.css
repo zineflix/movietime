@@ -34,7 +34,7 @@ body {
     margin-top: 10px;
     color: white;
     background-color: #333;
-    border: 2px solid #0275a6;
+    border: 2px solid #8A00C4;
     border-radius: 10px;
   }
   
@@ -105,7 +105,7 @@ body {
     position: relative;
     overflow: hidden; /* Ensures that the poster stays within the bounds of the container */
     border-radius: 8px;
-    box-shadow: 0 2px 5px #0296cc;
+    box-shadow: 0 2px 5px #8A00C4;
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effect */
   }
   
@@ -182,7 +182,7 @@ body {
 
     nav ul li a:hover,
     nav ul li a.active {
-      background-color: #0296cc;
+      background-color: #8A00C4;
     }
 /* Mobile Navbar */
 .menu-toggle {
@@ -259,7 +259,7 @@ body {
         font-size: 18px;
         font-weight: bold;
         cursor: pointer;
-        background-color: #0296cc;
+        background-color: #8A00C4;
         padding: 10px 20px;
         border-radius: 5px;
         display: block;  /* Visible on mobile */
@@ -299,7 +299,7 @@ body {
     transition: background 0.3s;
 }
 .dropbtn:hover {
-    background-color: #0296cc;
+    background-color: #8A00C4;
 }
 
 .dropdown-content {
@@ -328,7 +328,7 @@ body {
 }
 
 .dropdown-content li a:hover {
-    background-color: #0296cc;
+    background-color: #8A00C4;
 }
 
 /* Show dropdown on hover (for larger screens) */
@@ -362,7 +362,7 @@ button {
   display: block;
   margin: 20px auto;
   padding: 12px 30px;
-  background-color: #0275a6;
+  background-color: #8A00C4;
   color: #fff;
   border: none;
   border-radius: 30px;
@@ -373,7 +373,7 @@ button {
 }
 
 .load-more-button:hover {
-  background-color: #0275a6;
+  background-color: #8A00C4;
   transform: scale(1.05);
 }
 
@@ -402,7 +402,7 @@ button {
 }
 
 .footer-links a {
-  color: #0296cc;
+  color: #8A00C4;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
