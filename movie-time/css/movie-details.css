@@ -36,7 +36,7 @@ html {
   
   .row__poster:hover {
     transform: scale(1.08);
-    box-shadow: 0 10px 20px #0296cc;
+    box-shadow: 0 10px 20px #8A00C4;
   }
   
   .row__posters::-webkit-scrollbar {
@@ -121,7 +121,7 @@ html {
   margin-right: 1rem;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  background-color: #0296cc;
+  background-color: #8A00C4;
   margin-bottom: 20px;
 }
 
@@ -570,7 +570,7 @@ body {
   position: absolute;
   top: 10px;
   right: 90px;
-  background-color: #0296cc;
+  background-color: #8A00C4;
   color: white;
   font-size: 16px;
   padding: 10px;
@@ -588,7 +588,7 @@ body {
   position: absolute;
   top: 0px;
   right: 230px;
-  background-color: #0296cc;
+  background-color: #8A00C4;
   color: white;
   font-size: 14px;
   padding: 10px;
@@ -773,7 +773,7 @@ body {
 
 /* Watch Now Button */
 .watch-now-btn, .watch-trailer-btn {
-  background-color: #0296cc;
+  background-color: #8A00C4;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -860,7 +860,7 @@ body {
   position: absolute;
   top: 0px;
   right: 100px;
-  background-color: #0296cc;
+  background-color: #8A00C4;
   color: white;
   font-size: 14px;
   padding: 10px;
@@ -879,7 +879,7 @@ body {
   position: absolute;
   top: 0px;
   right: 230px;
-  background-color: #0296cc;
+  background-color: #8A00C4;
   color: white;
   font-size: 14px;
   padding: 10px;
@@ -950,7 +950,7 @@ body {
 
 /* Style for the buttons */
 #season-btn, #episode-btn {
-  background-color: #0296cc;
+  background-color: #8A00C4;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -1014,7 +1014,7 @@ body {
 }
 
 #seasons-list li:hover, #episodes-list li:hover {
-  background-color: #0296cc;
+  background-color: #8A00C4;
 }
 
 #more-like-this {
@@ -1786,7 +1786,7 @@ h4 {
 
     nav ul li a:hover,
     nav ul li a.active {
-      background-color: #0296cc;
+      background-color: #8A00C4;
     }
 /* Mobile Navbar */
 .menu-toggle {
@@ -1863,7 +1863,7 @@ h4 {
         font-size: 18px;
         font-weight: bold;
         cursor: pointer;
-        background-color: #0296cc;
+        background-color: #8A00C4;
         padding: 10px 20px;
         border-radius: 5px;
         display: block;  /* Visible on mobile */
@@ -1933,7 +1933,7 @@ h4 {
 }
 
 #chat-button {
-    background-color: #0296cc;
+    background-color: #8A00C4;
     color: white;
     border: none;
     padding: 12px 18px;
@@ -1990,7 +1990,7 @@ h4 {
 /* Send button */
 #send-message {
     width: 100%;
-    background-color: #0296cc;
+    background-color: #8A00C4;
     color: white;
     border: none;
     padding: 10px;
@@ -2055,7 +2055,7 @@ margin-top: 10px; /* Adds space between the message and the button */
 }
 
 #floating-message button:hover {
-background-color: #0296cc; /* Darker green on hover */
+background-color: #8A00C4; /* Darker green on hover */
 }
 
 /* Adjustment of arrow button in mobile */
@@ -2160,7 +2160,7 @@ background-color: #0296cc; /* Darker green on hover */
     transition: background 0.3s;
 }
 .dropbtn:hover {
-    background-color: #0296cc;
+    background-color: #8A00C4;
 }
 
 .dropdown-content {
@@ -2189,7 +2189,7 @@ background-color: #0296cc; /* Darker green on hover */
 }
 
 .dropdown-content li a:hover {
-    background-color: #0296cc;
+    background-color: #8A00C4;
 }
 
 /* Show dropdown on hover (for larger screens) */
@@ -2235,7 +2235,7 @@ meta[http-equiv="refresh"] {
       text-align: center;
       padding-top: 20px;
       padding-bottom: 20px;
-      color: #0296cc;
+      color: #8A00C4;
       background-color: #1e1e1e;
       width: 60%;
       margin-left: 20%;
@@ -2270,7 +2270,7 @@ meta[http-equiv="refresh"] {
     }
     button {
       padding: 10px 20px;
-      background-color: #0296cc;
+      background-color: #8A00C4;
       color: white;
       border: none;
       border-radius: 4px;
@@ -2327,7 +2327,7 @@ meta[http-equiv="refresh"] {
       transform: scale(1.1);
     }
     .selected-avatar {
-      border: 3px solid #0296cc;
+      border: 3px solid #8A00C4;
       transform: scale(1.2);
     }
     #avatarPreview {
