@@ -193,7 +193,7 @@ body {
 }
 
 .scroll-left:hover, .scroll-right:hover {
-    background: rgba(255, 255, 255, 0.8);
+    background: #8A00C4;
     color: black;
 }
 
